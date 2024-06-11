@@ -1,0 +1,11 @@
+.grant-parents div,.grant-parents{
+    border: 2px solid teal;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
+.flex{
+    display: flex;
+
+}
